@@ -67,6 +67,11 @@ Data is fetched from **JSONBin.io** via public API keys (stored in `.env`):
 </p>
 
 
+For your convenience, I’ve included the environment variables needed to run the project in a file named .env.example.
+It contains the actual values used in development, so you can run the project without needing to request API keys or set anything up manually.
+If you’d like to run the repository locally:
+Duplicate the .env.example file
+Rename it to .env
 
 
 ---
