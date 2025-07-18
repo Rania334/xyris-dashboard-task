@@ -1,7 +1,12 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+  ssr: false,
+  target: 'static',
+  app: {
+    baseURL: '/xyris-dashboard-task/',
+  },
   compatibilityDate: '2025-07-15',
-   runtimeConfig: {
+  runtimeConfig: {
     public: {
       API_URL: process.env.NUXT_API_URL,
       API_URL2: process.env.NUXT_API_URL2,
@@ -9,8 +14,8 @@ export default defineNuxtConfig({
     }
   },
   devtools: { enabled: true },
-  modules: ['@nuxtjs/tailwindcss', 'nuxt-lucide-icons','@nuxtjs/color-mode'],
-   colorMode: {
+  modules: ['@nuxtjs/tailwindcss', 'nuxt-lucide-icons', '@nuxtjs/color-mode'],
+  colorMode: {
     classSuffix: ''
   },
   css: ['../assets/css/tailwind.css'],
