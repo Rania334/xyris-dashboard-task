@@ -1,10 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  ssr: false,
-  target: 'static',
-  app: {
-    baseURL: '/xyris-dashboard-task/',
-  },
+  ssr: true,
   compatibilityDate: '2025-07-15',
   runtimeConfig: {
     public: {
