@@ -49,6 +49,7 @@ Data is fetched from **JSONBin.io** via public API keys (stored in `.env`):
 - Donut & traffic chart data
 - User stats (auto-increments visits on load)
 - Recent activity feed
+- Skeleton loaders were added to enhance UX during data fetches, providing visual placeholders while content loads.
 
 ## Screenshots
 
@@ -65,7 +66,10 @@ Data is fetched from **JSONBin.io** via public API keys (stored in `.env`):
 <p align="center">
   <img src="https://github.com/user-attachments/assets/52886fa6-b83f-461c-b125-9334e43cab77" width="300" />
 </p>
-
+<p align="center">
+<img width="500"  alt="2388" src="https://github.com/user-attachments/assets/0744ea17-2571-4281-a5e8-384224df1466" />
+<img width="500" height="767" alt="1213" src="https://github.com/user-attachments/assets/27fc6ed1-2db7-4b16-9e82-4493d439aca2" />
+</p>
 
 For your convenience, I’ve included the environment variables needed to run the project in a file named .env.example.
 It contains the actual values used in development, so you can run the project without needing to request API keys or set anything up manually.
