@@ -6,7 +6,9 @@ export default defineNuxtConfig({
     public: {
       API_URL: process.env.NUXT_API_URL,
       API_URL2: process.env.NUXT_API_URL2,
+      API_URL3: process.env.NUXT_API_URL3,
       API_KEY: process.env.NUXT_API_KEY,
+      
     }
   },
   devtools: { enabled: true },
