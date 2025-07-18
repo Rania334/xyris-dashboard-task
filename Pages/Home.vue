@@ -1,6 +1,6 @@
 <template>
   <Header />
-  <div class="min-h-screen flex pt-16 "> 
+  <div class="min-h-screen flex pt-16  "> 
     <Sidebar />
     <div class="flex-1 flex flex-col">
       <div class="flex items-center justify-between p-4 ">
