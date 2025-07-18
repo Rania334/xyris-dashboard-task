@@ -55,6 +55,8 @@ Data is fetched from **JSONBin.io** via public API keys (stored in `.env`):
 
 <img width="1920" height="1635" alt="download" src="https://github.com/user-attachments/assets/933f0630-f8c9-4c7a-941d-cfc4b7b1136b" />
 <img width="1920" height="1382" alt="download" src="https://github.com/user-attachments/assets/a0e61d56-0300-47e3-a952-cddca814b78f" />
+<img width="1920" height="1107" alt="localhost-3000 (1)" src="https://github.com/user-attachments/assets/6df38b04-a743-48a9-8490-60d108d0fba5" />
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6417fb99-87b1-4b55-8ab0-5c332081eee3" width="300" />
   <img src="https://github.com/user-attachments/assets/ae88312d-922e-43fb-afa3-f529c712b875" width="300" />
@@ -66,6 +68,7 @@ Data is fetched from **JSONBin.io** via public API keys (stored in `.env`):
 <p align="center">
   <img src="https://github.com/user-attachments/assets/52886fa6-b83f-461c-b125-9334e43cab77" width="300" />
 </p>
+
 <p align="center">
 <img width="500"  alt="2388" src="https://github.com/user-attachments/assets/0744ea17-2571-4281-a5e8-384224df1466" />
 <img width="500" height="767" alt="1213" src="https://github.com/user-attachments/assets/27fc6ed1-2db7-4b16-9e82-4493d439aca2" />
