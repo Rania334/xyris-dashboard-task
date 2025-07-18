@@ -54,13 +54,12 @@ Data is fetched from **JSONBin.io** via public API keys (stored in `.env`):
 
 <img width="1920" height="1635" alt="download" src="https://github.com/user-attachments/assets/933f0630-f8c9-4c7a-941d-cfc4b7b1136b" />
 <img width="1920" height="1382" alt="download" src="https://github.com/user-attachments/assets/a0e61d56-0300-47e3-a952-cddca814b78f" />
-![WhatsApp Image 2025-07-18 at 06 10 14_fd2946a8](https://github.com/user-attachments/assets/e5e39ae3-551f-4cdd-99d9-73699cc33ee7)
-![WhatsApp Image 2025-07-18 at 06 10 13_ff6eee78](https://github.com/user-attachments/assets/a788edc5-a6a3-4122-b9a2-bcd606d7096b)
-![WhatsApp Image 2025-07-18 at 06 10 13_22b4f8b7](https://github.com/user-attachments/assets/e237b9db-6803-45d6-821e-526c12220f08)
-![WhatsApp Image 2025-07-18 at 06 10 13_d86e0058](https://github.com/user-attachments/assets/6e9dc909-807f-4923-9cbd-8d2827d2e303)
-![WhatsApp Image 2025-07-18 at 06 10 14_5a89810a](https://github.com/user-attachments/assets/e563a348-32b8-4d4f-87d8-0c86b144789d)
-
-
+![WhatsApp Image 2025-07-18 at 06 10 14_fd2946a8](https://github.com/user-attachments/assets/52886fa6-b83f-461c-b125-9334e43cab77)
+![WhatsApp Image 2025-07-18 at 06 10 14_5a89810a](https://github.com/user-attachments/assets/6417fb99-87b1-4b55-8ab0-5c332081eee3)
+![WhatsApp Image 2025-07-18 at 06 10 13_ff6eee78](https://github.com/user-attachments/assets/ae88312d-922e-43fb-afa3-f529c712b875)
+![WhatsApp Image 2025-07-18 at 06 10 13_d86e0058](https://github.com/user-attachments/assets/4dd88ec3-fbe2-48a0-ac1f-2d7618d48137)
+![WhatsApp Image 2025-07-18 at 06 10 13_22b4f8b7](https://github.com/user-attachments/assets/ab8f88b6-d799-4c82-9372-59b32957214a)
+![WhatsApp Image 2025-07-18 at 06 10 13_d86e0058](https://github.com/user-attachments/assets/e0707f5e-5c72-4ff4-a5d8-9804c52c9b60)
 
 
 
