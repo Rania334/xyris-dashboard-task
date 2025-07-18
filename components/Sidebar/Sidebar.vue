@@ -1,5 +1,5 @@
 <template>
-  <aside class="hidden md:flex w-64 flex-col border-r bg-background p-6 space-y-6 shadow-sm">
+  <aside class="hidden lg:flex w-64 flex-col border-r bg-background p-6 space-y-6 shadow-sm">
    
     <div>
       <input

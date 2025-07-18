@@ -17,7 +17,7 @@
     ref="svgRef"
     :viewBox="`0 0 ${svgWidth} ${svgHeight}`"
     preserveAspectRatio="none"
-    class="w-full aspect-[2/1]"
+    class="w-full aspect-[1/1]"
     @mousemove="handleMouse"
     @mouseleave="hoverIndex = null"
     @touchmove.prevent="handleTouch"
